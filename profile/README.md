@@ -1,6 +1,3 @@
-<img src="https://github.com/user-attachments/assets/6249bed4-3e19-4f73-8f24-902f39141161" width="40px" align="left" alt="logo">
-
-<h1>&nbsp;&nbsp;동네.zip</h1>
 
 <img src="https://github.com/user-attachments/assets/8d782db3-474e-4841-9d7c-b8a2aeece344" width="100%">
 
